@@ -25,7 +25,7 @@ Caso digite sem o argumento da rede, recebe a seguinte resposta:
 
 ![image](https://github.com/sidneysimas/scan-vuln-hosts/assets/3409713/b5c3b44f-edc4-4953-b715-d213d0132f22)
 
-Você irá digitar ```./scan_hosts.sh 192.168.0``` 
+Você irá digitar ```./scan-vuln-hosts.sh 192.168.0``` 
 Ele vai perguntar o nome do projeto:
 Em seguida o script faz o scan de hosts vivos.
 ![image](https://github.com/sidneysimas/scan-hosts/assets/3409713/232efccb-31b3-435a-aff6-46c3d68c373f)
