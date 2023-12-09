@@ -5,7 +5,7 @@ Muitas vezes precisamos verificar em uma rede com muitos hosts, quais estão viv
     Navegue dentro de seu sistema, escolha o local e execute no terminal o comando abaixo.
 
     ``` 
-        git clone https://github.com/faciltech/scan-vuln-hosts.git
+        git clone https://github.com/sidneysimas/scan-vuln-hosts.git
         Cloning into 'scan'...
         remote: Enumerating objects: 10, done.
         remote: Counting objects: 100% (10/10), done.
